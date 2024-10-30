@@ -1,4 +1,5 @@
 ### Verificar se o npm está instalado
+
 `npm -v`
 
 ---
@@ -9,4 +10,4 @@
 
 ---
 
-É recomendado criar um arquivo `.gitignore` para evitar que arquivos desnecessários sejam incluídos  no repositório
+É recomendado criar um arquivo `.gitignore` para evitar que arquivos desnecessários sejam incluídos no repositório
